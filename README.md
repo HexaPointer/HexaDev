@@ -1,2 +1,4 @@
 # HexaDev
-Mixed projects repository
+
+HexaDev is a repository for random small projects or test projects.
+
